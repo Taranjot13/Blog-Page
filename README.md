@@ -1,2 +1,2 @@
 # Blog-Page
-A HTML, CSS, Javascript project on blog page.
+A HTML, CSS project on blog page.
